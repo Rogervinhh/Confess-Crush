@@ -9,7 +9,7 @@ const CONFIG = {
     btnNo: 'Chê!!!',
     question: 'Mốt rep tin nhắn nhanh tí nhaaaa',
     btnReply: 'okok',
-    reply: 'next...',
+    reply: 'okok',
     mess: 'Nhớ giữ lời nha:))',
     messDesc: '<b><color=#F3F>hi</a><color=#F33>hi</a></b>',
     btnAccept: 'Ok',
