@@ -1,20 +1,17 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    titleWeb: "Web sieu xin xo",
+    introTitle: 'create by Vinhhh',
+    introDesc: `bi content qua nen ghi bua`,
+    btnIntro: '^^next^^',
+    title: 'Web ok ko?',
+    desc: 'lam hoi bi lau ay nha',
+    btnYes: 'dc day<33',
+    btnNo: 'nhu db:3',
+    question: 'e mot nhan rep nhanh nhanh ty nhaaaaa',
+    btnReply: 'okok=)))',
+    reply: '<b><color=#F3F>???</a><color=#F33>???</a></b>',
+    mess: '???',
+    messDesc: 'Web qua ok dung hog:)?',
+    btnAccept: 'chi co the ok:))',
+    messLink: 'https://github.com/zukahai/Confess-Crush' //https://www.facebook.com/vinh.truonggia.355
 }
